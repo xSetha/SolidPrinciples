@@ -1,0 +1,14 @@
+C:\Users\Lenovo\source\repos\SOLIDPrinciples\SOLIDPrinciples\bin\Debug\netcoreapp3.1\SOLIDPrinciples.exe
+C:\Users\Lenovo\source\repos\SOLIDPrinciples\SOLIDPrinciples\bin\Debug\netcoreapp3.1\SOLIDPrinciples.deps.json
+C:\Users\Lenovo\source\repos\SOLIDPrinciples\SOLIDPrinciples\bin\Debug\netcoreapp3.1\SOLIDPrinciples.runtimeconfig.json
+C:\Users\Lenovo\source\repos\SOLIDPrinciples\SOLIDPrinciples\bin\Debug\netcoreapp3.1\SOLIDPrinciples.runtimeconfig.dev.json
+C:\Users\Lenovo\source\repos\SOLIDPrinciples\SOLIDPrinciples\bin\Debug\netcoreapp3.1\SOLIDPrinciples.dll
+C:\Users\Lenovo\source\repos\SOLIDPrinciples\SOLIDPrinciples\bin\Debug\netcoreapp3.1\SOLIDPrinciples.pdb
+C:\Users\Lenovo\source\repos\SOLIDPrinciples\SOLIDPrinciples\obj\Debug\netcoreapp3.1\SOLIDPrinciples.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\SOLIDPrinciples\SOLIDPrinciples\obj\Debug\netcoreapp3.1\SOLIDPrinciples.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\SOLIDPrinciples\SOLIDPrinciples\obj\Debug\netcoreapp3.1\SOLIDPrinciples.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\SOLIDPrinciples\SOLIDPrinciples\obj\Debug\netcoreapp3.1\SOLIDPrinciples.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\SOLIDPrinciples\SOLIDPrinciples\obj\Debug\netcoreapp3.1\SOLIDPrinciples.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\SOLIDPrinciples\SOLIDPrinciples\obj\Debug\netcoreapp3.1\SOLIDPrinciples.dll
+C:\Users\Lenovo\source\repos\SOLIDPrinciples\SOLIDPrinciples\obj\Debug\netcoreapp3.1\SOLIDPrinciples.pdb
+C:\Users\Lenovo\source\repos\SOLIDPrinciples\SOLIDPrinciples\obj\Debug\netcoreapp3.1\SOLIDPrinciples.genruntimeconfig.cache
